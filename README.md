@@ -35,7 +35,7 @@ After the study is created in the frontend:
 ### 2. SOA Hardcoding
 - In the activity creation function, the Schedule of Activities (SOA) is **hardcoded** as:
   ```
-  "Subject related details"
+  "Subject related information"
   ```
 - You must change this to a **user-specific or study-specific SOA** name manually in the OSB **Edit** option.
 
