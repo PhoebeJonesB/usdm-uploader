@@ -53,7 +53,7 @@ Before using this uploader, validate your USDM JSON using the companion script:
 
 ## ✅ Tested Datasets
 
-This script has been successfully tested on **5 different USDM files** across various therapeutic areas and trial structures.
+This script has been successfully tested on **5 different USDM files** across various therapeutic areas and trial structures. Files can be found here https://github.com/cdisc-org/DDF-RA/tree/main/Documents/Examples
 
 ## 🔖 Version
 **v0.1**
