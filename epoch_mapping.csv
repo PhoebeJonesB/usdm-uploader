@@ -1,0 +1,14 @@
+CD_LIST_ID,GEN_EPOCH_TYPE,GEN_EPOCH_SUB_TYPE,GEN_EPOCH_SUB_TYPE_CD,CD_VAL_SORT_SEQ,CT_CD,CT_CD_NEW,DEFINITION
+GEN_EPOCH_TYPE,Pre Treatment EPOCH TYPE,Screening,SCREENING,1,C202487,C48262,A period in a clinical study during which subjects are evaluated for participation in the study.
+GEN_EPOCH_TYPE,Pre Treatment EPOCH TYPE,Run-in,RUN-IN,2,C98779,C98779,"A period in a clinical study that occurs before the commencement of the primary clinical study investigation, during which subjects may be assessed for suitability in the clinical study, withdrawn from existing therapy, trained in study methodology or evaluated for any other protocol-specified reason."
+GEN_EPOCH_TYPE,Treatment,Titration,TITRATION EPOCH,3,,,A period in a clinical study during which subjects are individually tirated up in dose on study treatment.
+GEN_EPOCH_TYPE,Treatment,Dose Escalation,DOSE ESCALATION EPOCH,4,,,A period in a clinical study during which subjects are escalated up in dose levels on study treatment.
+GEN_EPOCH_TYPE,Treatment,Treatment,TREATMENT,5,C101526,C101526,A period in a study during which subjects are receiving investigational therapy or treatment.
+GEN_EPOCH_TYPE,Treatment,Maintenance,MAINTENANCE EPOCH,6,,,A period in a clinical study during which subjects receive maintenance treatment.
+GEN_EPOCH_TYPE,Treatment,Extension,EXTENSION EPOCH,7,,,A period in a clinical study during which a subset of subjects receive continuation treatment.
+GEN_EPOCH_TYPE,Treatment,Observation,OBSERVATION,8,C165873,C165873,"A period in a clinical study during which subjects are observed, without planned interventions."
+GEN_EPOCH_TYPE,No Treatment EPOCH TYPE,Wash-out,WASHOUT,9,C42872,C42872,The interval of time that a participant enrolled in a study must not receive a specified treatment(s) before starting a study intervention(s).
+GEN_EPOCH_TYPE,Post Treatment EPOCH TYPE,Elimination,ELIMINATION EPOCH,10,,,A period in a clinical study during which subjects have elimination from study treatment.
+GEN_EPOCH_TYPE,Post Treatment EPOCH TYPE,Follow-up,FOLLOW-UP,11,C202578,C99158,A period in a clinical study during which information about the health status of an individual is obtained after study interventions have concluded.
+GEN_EPOCH_TYPE,No Treatment EPOCH TYPE,Basic,BASIC EPOCH,12,,,An epoch subtype for Supplemental and Non visits.
+GEN_EPOCH_TYPE,Treatment,Intervention,INTERVENTION,13,,,"An activity that produces an effect, or that is intended to alter the course of a disease in a patient or population. This is a general term that encompasses the medical, social, behavioral, and environmental acts that can have preventive, therapeutic, or palliative effects."
