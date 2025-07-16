@@ -1,5 +1,6 @@
 # usdm-uploader
 Automated uploader for USDM-formatted clinical trial studies
+This is Python Jupyter notebook to automatically upload USDM (3.11 – 4) to OpenStudyBuilder.
 
 
 # Clinical Study USDM Uploader – Version 0.1
